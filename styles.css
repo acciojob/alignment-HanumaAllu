@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .head {
+            text-align: center;
+            font-size: 24px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        table.middle {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        table.middle, table.middle td, table.middle th {
+            border: 1px solid black;
+            border-spacing: 1px;
+            padding: 1px;
+        }
+        .center {
+            text-align: center;
+        }
+        .right {
+            text-align: right;
+        }
+        .green {
+            background-color: green;
+            color: white;
+        }
+        .blue {
+            background-color: blue;
+            color: white;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        #table1, #t11, #t21, #t31{
+            text-align: left;
+        }
