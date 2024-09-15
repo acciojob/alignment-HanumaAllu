@@ -39,6 +39,11 @@ body {
             max-width: 100%;
             height: auto;
         }
-        #table1, #t11, #t21, #t31{
-            text-align: left;
-        }
+      #t11,
+      #t21,
+      #t31 {
+        text-align: left;
+      }
+      #table-2 #t21 {
+        text-align: center;
+      }
